@@ -1,0 +1,12 @@
+C:\Users\Arseniy\source\repos\ShellEngineLib\bin\Release\net6.0\ShellEngineLib.deps.json
+C:\Users\Arseniy\source\repos\ShellEngineLib\bin\Release\net6.0\ShellEngineLib.dll
+C:\Users\Arseniy\source\repos\ShellEngineLib\bin\Release\net6.0\ShellEngineLib.pdb
+C:\Users\Arseniy\source\repos\ShellEngineLib\obj\Release\net6.0\ShellEngineLib.csproj.AssemblyReference.cache
+C:\Users\Arseniy\source\repos\ShellEngineLib\obj\Release\net6.0\ShellEngineLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arseniy\source\repos\ShellEngineLib\obj\Release\net6.0\ShellEngineLib.AssemblyInfoInputs.cache
+C:\Users\Arseniy\source\repos\ShellEngineLib\obj\Release\net6.0\ShellEngineLib.AssemblyInfo.cs
+C:\Users\Arseniy\source\repos\ShellEngineLib\obj\Release\net6.0\ShellEngineLib.csproj.CoreCompileInputs.cache
+C:\Users\Arseniy\source\repos\ShellEngineLib\obj\Release\net6.0\ShellEngineLib.dll
+C:\Users\Arseniy\source\repos\ShellEngineLib\obj\Release\net6.0\refint\ShellEngineLib.dll
+C:\Users\Arseniy\source\repos\ShellEngineLib\obj\Release\net6.0\ShellEngineLib.pdb
+C:\Users\Arseniy\source\repos\ShellEngineLib\obj\Release\net6.0\ref\ShellEngineLib.dll

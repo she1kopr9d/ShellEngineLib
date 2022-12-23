@@ -1,0 +1,3 @@
+C:\Users\Arseniy\source\repos\ShellEngineLib\bin\Release\net6.0\publish\ShellEngineLib.dll
+C:\Users\Arseniy\source\repos\ShellEngineLib\bin\Release\net6.0\publish\ShellEngineLib.deps.json
+C:\Users\Arseniy\source\repos\ShellEngineLib\bin\Release\net6.0\publish\ShellEngineLib.pdb
